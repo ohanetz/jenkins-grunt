@@ -1,2 +1,2 @@
 # jenkins-grunt
-A plugin that runs GruntJS tasks in jenkins
+A plugin that runs Grunt tasks in jenkins
